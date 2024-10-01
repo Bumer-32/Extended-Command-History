@@ -3,17 +3,17 @@
 	"id": "extended-command-history",
 	"version": "${version}",
 	"name": "Extended Command History",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Mod increases max command history size to 500 commands",
 	"authors": [
-		"Me!"
+		"Bumer_32"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"homepage": "https://lumivoid.pp.ua",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "Apache-2.0",
 	"icon": "assets/extended-command-history/icon.png",
-	"environment": "*",
+	"environment": "client",
 	"entrypoints": {
 		"main": [
 			"ua.pp.lumivoid.extendedcommandhistory.ExtendedCommandHistory"

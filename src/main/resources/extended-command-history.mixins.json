@@ -3,7 +3,7 @@
 	"package": "ua.pp.lumivoid.extendedcommandhistory.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+      "CommandHistoryMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
